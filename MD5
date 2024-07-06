@@ -1,8 +1,8 @@
-07e874bee072737bd9806d01ae07f896 *DESCRIPTION
+195122c8d23154fe79d3525150f360d5 *DESCRIPTION
 dc86c093012c1c9bc880868b901be232 *LICENSE
 58bc95c04d9a4a010790e81bdc31d872 *LICENSE.note
 58d9e22276cf763469ce74123fff1916 *NAMESPACE
-683f767ec8f0d530861bed98769c0149 *NEWS.md
+dcd6c0d412b9e65b468a3bcbc54ca26e *NEWS.md
 4a5b71cfd4fa08ca50304a7cd3da6cc3 *R/decoders.R
 8a3e4798d33e4cfd4d87bf442a3ff5aa *R/encoding.R
 de851b63434f5e778b712a7bb136628f *R/extendr-wrappers.R
@@ -39,9 +39,9 @@ e0107b09c4dcd8ddb4596f7da4e6882b *man/trainer_wordpiece.Rd
 27957123fba16c05c53a66e68b0f3482 *src/Makevars.ucrt
 4d12fbf066fb357db1e202bfc7f60bab *src/Makevars.win
 e475c45acff0aec8451fa9e0d2ade36c *src/entrypoint.c
-b6766583555238091a29ecb7f358e4fa *src/rust/Cargo.lock
-1d987f10d403ee762a9135a8fc717d35 *src/rust/Cargo.toml
-5c7a24bdcb89bd50422661d20c1409b4 *src/rust/config/cargo-config.toml
+91ffb80d785800539d25081994e9a358 *src/rust/Cargo.lock
+b189c5c0b29fbd4f868d42d66341117e *src/rust/Cargo.toml
+f47439b192b8ccb1f1333e93291ef128 *src/rust/config/cargo-config.toml
 f79a98417550c5f434aa3ca8d0a809cb *src/rust/src/decoders.rs
 0458be593b6569ecdd65dc527a5c4a2e *src/rust/src/lib.rs
 e407d3bc7b63a5de6330183ce8b21deb *src/rust/src/models.rs
@@ -50,7 +50,7 @@ e3bbc5d34a774898b7013c0d53def544 *src/rust/src/normalizers.rs
 50fb19aae42b9f9925f45cc2aa298e9c *src/rust/src/pre_tokenizers.rs
 20c7eeea3e628f0d30de4dfea4787e8f *src/rust/src/tokenizer.rs
 558fde248c4e122f19c2ed2f9cee995f *src/rust/src/trainers.rs
-f3a27e820c16ca4a7015b000698a7c02 *src/rust/vendor.tar.xz
+7b7fd4014f405edcda71f04b77c1f2c0 *src/rust/vendor.tar.xz
 ba398b93085f305afd0f06437e58899f *src/tok-win.def
 2fa9c1f6e421b6a79ceeee8fc410730b *tests/testthat.R
 a379162c68dc3aac382a2d98facf4c44 *tests/testthat/assets/tokenizer.json
