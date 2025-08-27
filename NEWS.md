@@ -1,3 +1,12 @@
+# tok 0.2.0
+
+- Updated upstream tokenizers to 0.20.3
+- Update extendr-api to 0.8.1
+
+# tok 0.1.5
+
+- add message translation in FR (#19, @cregouby)
+
 # tok 0.1.4
 
 - Updated libR-sys to fix mac oldrel notes. (#18)

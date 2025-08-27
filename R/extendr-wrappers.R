@@ -6,7 +6,6 @@
 # This file was created with the following call:
 #   .Call("wrap__make_tok_wrappers", use_symbols = TRUE, package_name = "tok")
 
-#' @docType package
 #' @usage NULL
 #' @useDynLib tok, .registration = TRUE
 NULL
