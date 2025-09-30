@@ -1,3 +1,7 @@
+# tok 0.2.1
+
+- Fixed tiny documentation issue for normalizers.
+
 # tok 0.2.0
 
 - Updated upstream tokenizers to 0.20.3
